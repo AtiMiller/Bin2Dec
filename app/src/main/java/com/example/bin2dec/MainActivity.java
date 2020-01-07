@@ -26,6 +26,8 @@ public class MainActivity extends AppCompatActivity {
         resultTv =findViewById(R.id.resultTv);
         convertBtn =findViewById(R.id.convertBtn);
 
+        //I want to add this comment to test how to add my second commit.
+
 
         convertBtn.setOnClickListener(new View.OnClickListener() {
             @Override
